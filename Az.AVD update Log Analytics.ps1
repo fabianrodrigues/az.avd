@@ -1,0 +1,1 @@
+﻿Update-AvdDiagnostics -HostPoolName avd-hostpool-001 -ResourceGroupName rg-avd-001 -AvdWorkspace avd-workpace-001 -DiagnosticsName

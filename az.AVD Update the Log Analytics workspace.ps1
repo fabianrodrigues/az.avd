@@ -1,0 +1,1 @@
+﻿Update-AvdDiagnostics -HostPoolName <hostpoolname> -ResourceGroupName <resourcegroupname> -AvdWorkspace <AVDWorksSpaceName> -DiagnosticsName <LogAnalyticsWorkspacName>
