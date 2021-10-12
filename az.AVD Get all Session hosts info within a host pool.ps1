@@ -1,0 +1,1 @@
+﻿Get-azwvdSessionhost -hostpoolname <hostpoolname> -resourcegroupname <resourcegroupname>| select Name, status, AllowNewSession, assigneduser, lastheartbeat
